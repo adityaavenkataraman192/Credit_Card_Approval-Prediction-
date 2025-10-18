@@ -56,12 +56,11 @@ Given customer details such as income, employment duration, and credit history, 
 - **Machine Learning Algorithim & Libraries:** Pandas, NumPy, Scikit-Learn, XGBoost, LightGBM, Matplotlib, Seaborn, UMAP  
 - **Tools:** Jupyter Notebook, PowerPoint for presentation  
 
-## 👨‍💼 Business Impact
+##  Business Impact
 This model provides a **data-driven decision framework** for credit analysts:
 - Reduces manual workload in application screening  
 - Improves risk prediction accuracy  
 - Supports better policy and credit-limit decisions  
----
 
 ## Learning Outcomes & Experience Gained
 
